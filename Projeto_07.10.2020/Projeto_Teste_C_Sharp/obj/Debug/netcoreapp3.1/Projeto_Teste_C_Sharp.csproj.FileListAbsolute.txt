@@ -1,0 +1,13 @@
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\bin\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.exe
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\bin\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.deps.json
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\bin\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.runtimeconfig.json
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\bin\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.runtimeconfig.dev.json
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\bin\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.dll
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\bin\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.pdb
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\obj\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.AssemblyInfoInputs.cache
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\obj\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.AssemblyInfo.cs
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\obj\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.csproj.CoreCompileInputs.cache
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\obj\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.dll
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\obj\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.pdb
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\obj\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.genruntimeconfig.cache
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste_C_Sharp\obj\Debug\netcoreapp3.1\Projeto_Teste_C_Sharp.csprojAssemblyReference.cache

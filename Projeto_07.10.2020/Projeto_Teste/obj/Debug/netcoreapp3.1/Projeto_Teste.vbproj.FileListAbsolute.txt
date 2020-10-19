@@ -1,0 +1,13 @@
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\bin\Debug\netcoreapp3.1\Projeto_Teste.exe
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\bin\Debug\netcoreapp3.1\Projeto_Teste.deps.json
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\bin\Debug\netcoreapp3.1\Projeto_Teste.runtimeconfig.json
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\bin\Debug\netcoreapp3.1\Projeto_Teste.runtimeconfig.dev.json
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\bin\Debug\netcoreapp3.1\Projeto_Teste.dll
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\bin\Debug\netcoreapp3.1\Projeto_Teste.pdb
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\obj\Debug\netcoreapp3.1\Projeto_Teste.vbprojAssemblyReference.cache
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\obj\Debug\netcoreapp3.1\Projeto_Teste.AssemblyInfoInputs.cache
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\obj\Debug\netcoreapp3.1\Projeto_Teste.AssemblyInfo.vb
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\obj\Debug\netcoreapp3.1\Projeto_Teste.vbproj.CoreCompileInputs.cache
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\obj\Debug\netcoreapp3.1\Projeto_Teste.dll
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\obj\Debug\netcoreapp3.1\Projeto_Teste.pdb
+K:\Program Files\Visual Studio Community 2019\Projeto_07.10.2020\Projeto_Teste\obj\Debug\netcoreapp3.1\Projeto_Teste.genruntimeconfig.cache
