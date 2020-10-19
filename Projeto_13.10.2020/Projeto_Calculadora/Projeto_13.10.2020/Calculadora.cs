@@ -9,22 +9,22 @@ namespace Projeto_13._10._2020
     
     class Calculadora
     {
-        
-        private static void fprg_soma (double p_valor1, double p_valor2)
+
+        private static void CalcularSoma (double primeiroValor, double segundoValor)
         {
             double vloc_soma;
 
-            vloc_soma = p_valor1 + p_valor2;
+            vloc_soma = primeiroValor + segundoValor;
 
-            Console.WriteLine("Soma " + p_valor1 + " + " + p_valor2 + " = " + vloc_soma);
+            Console.WriteLine("Soma " + primeiroValor + " + " + segundoValor + " = " + vloc_soma);
         }
-        private static void fprg_subtrai (double p_valor1, double p_valor2)
+        private static void CalcularSubtracao (double primeiroValor, double segundoValor)
         {
             double vloc_subtrai;
 
-            vloc_subtrai = p_valor1 - p_valor2;
+            vloc_subtrai = primeiroValor - segundoValor;
 
-            Console.WriteLine("Soma " + p_valor1 + " - " + p_valor2 + " = " + vloc_subtrai);
+            Console.WriteLine("Soma " + primeiroValor + " - " + segundoValor + " = " + vloc_subtrai);
         }
 
         private static void fprg_multiplica (double p_valor1, double p_valor2)
@@ -49,7 +49,7 @@ namespace Projeto_13._10._2020
                 Console.WriteLine("Soma " + p_valor1 + " / " + p_valor2 + " = " + vloc_divide);
             }
         }
-        private static void pprg_menu()
+        private static void MenuDeOperacoes()
         {
             Console.WriteLine(" ---------------------------- ");
             Console.WriteLine(" --- 1 - Soma             --- ");
@@ -71,42 +71,42 @@ namespace Projeto_13._10._2020
 
             while (true)
             {
-                pprg_menu();
+                MenuDeOperacoes();
 
                 Console.WriteLine("Escolha uma opção: ");
 
-                int vprg_opcao = Convert.ToInt32(Console.ReadLine());
-                double vprg_valor2 = 0;
-                double vprg_valor1 = 0;
+                int operacaoDesejada = Convert.ToInt32(Console.ReadLine());
+                double SegundoValor = 0;
+                double primeiroValor = 0;
 
-                if (vprg_opcao >= 1 && vprg_opcao < 5)
+                if (operacaoDesejada >= 1 && operacaoDesejada < 5)
                 {
                 Console.WriteLine("Escolha o Valor 1: ");
 
-                vprg_valor1 = Convert.ToDouble(Console.ReadLine());
+                primeiroValor = Convert.ToDouble(Console.ReadLine());
 
                 Console.WriteLine("Escolha o Valor 2: ");
 
-                vprg_valor2 = Convert.ToDouble(Console.ReadLine());
+                SegundoValor = Convert.ToDouble(Console.ReadLine());
 
                 }
-                if (vprg_opcao == 1)
+                if (operacaoDesejada == 1)
                 {
-                    fprg_soma(vprg_valor1, vprg_valor2);
+                    CalcularSoma(primeiroValor, SegundoValor);
 
-                } else if (vprg_opcao == 2)
+                } else if (operacaoDesejada == 2)
                 {
-                    fprg_subtrai(vprg_valor1,vprg_valor2);
+                    CalcularSubtracao(primeiroValor,SegundoValor);
                 
-                } else if (vprg_opcao == 3)
+                } else if (operacaoDesejada == 3)
                 {
-                    fprg_multiplica(vprg_valor1,vprg_valor2);
+                    fprg_multiplica(primeiroValor,SegundoValor);
 
-                } else if (vprg_opcao == 4)
+                } else if (operacaoDesejada == 4)
                 {
-                    fprg_divide(vprg_valor1,vprg_valor2);
+                    fprg_divide(primeiroValor,SegundoValor);
                 
-                } else if (vprg_opcao == 5)
+                } else if (operacaoDesejada == 5)
                 {
                     Console.WriteLine("Obrigado por usar nosso programa!");
                     break;

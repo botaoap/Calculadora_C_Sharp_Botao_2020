@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "K:\\Program Files\\Visual Studio Community 2019\\Projeto_13.10.2020\\Projeto_Calculadora\\Projeto_13.10.2020\\Projeto_Calculadora.csproj": {}
+    "C:\\GabrielGit\\Calculadora_C_Sharp_Botao_2020\\Projeto_13.10.2020\\Projeto_Calculadora\\Projeto_13.10.2020\\Projeto_Calculadora.csproj": {}
   },
   "projects": {
-    "K:\\Program Files\\Visual Studio Community 2019\\Projeto_13.10.2020\\Projeto_Calculadora\\Projeto_13.10.2020\\Projeto_Calculadora.csproj": {
+    "C:\\GabrielGit\\Calculadora_C_Sharp_Botao_2020\\Projeto_13.10.2020\\Projeto_Calculadora\\Projeto_13.10.2020\\Projeto_Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Program Files\\Visual Studio Community 2019\\Projeto_13.10.2020\\Projeto_Calculadora\\Projeto_13.10.2020\\Projeto_Calculadora.csproj",
+        "projectUniqueName": "C:\\GabrielGit\\Calculadora_C_Sharp_Botao_2020\\Projeto_13.10.2020\\Projeto_Calculadora\\Projeto_13.10.2020\\Projeto_Calculadora.csproj",
         "projectName": "Projeto_Calculadora",
-        "projectPath": "K:\\Program Files\\Visual Studio Community 2019\\Projeto_13.10.2020\\Projeto_Calculadora\\Projeto_13.10.2020\\Projeto_Calculadora.csproj",
-        "packagesPath": "C:\\Users\\Lorde\\.nuget\\packages\\",
-        "outputPath": "K:\\Program Files\\Visual Studio Community 2019\\Projeto_13.10.2020\\Projeto_Calculadora\\Projeto_13.10.2020\\obj\\",
+        "projectPath": "C:\\GabrielGit\\Calculadora_C_Sharp_Botao_2020\\Projeto_13.10.2020\\Projeto_Calculadora\\Projeto_13.10.2020\\Projeto_Calculadora.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\GabrielGit\\Calculadora_C_Sharp_Botao_2020\\Projeto_13.10.2020\\Projeto_Calculadora\\Projeto_13.10.2020\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lorde\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -52,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

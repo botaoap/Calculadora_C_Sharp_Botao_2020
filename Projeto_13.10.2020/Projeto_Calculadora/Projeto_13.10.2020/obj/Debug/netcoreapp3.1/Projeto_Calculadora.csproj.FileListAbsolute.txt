@@ -11,3 +11,16 @@ K:\Program Files\Visual Studio Community 2019\Projeto_13.10.2020\Projeto_Calcula
 K:\Program Files\Visual Studio Community 2019\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\obj\Debug\netcoreapp3.1\Projeto_Calculadora.pdb
 K:\Program Files\Visual Studio Community 2019\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\obj\Debug\netcoreapp3.1\Projeto_Calculadora.genruntimeconfig.cache
 K:\Program Files\Visual Studio Community 2019\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\obj\Debug\netcoreapp3.1\Projeto_Calculadora.csprojAssemblyReference.cache
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\bin\Debug\netcoreapp3.1\Projeto_Calculadora.exe
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\bin\Debug\netcoreapp3.1\Projeto_Calculadora.deps.json
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\bin\Debug\netcoreapp3.1\Projeto_Calculadora.runtimeconfig.json
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\bin\Debug\netcoreapp3.1\Projeto_Calculadora.runtimeconfig.dev.json
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\bin\Debug\netcoreapp3.1\Projeto_Calculadora.dll
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\bin\Debug\netcoreapp3.1\Projeto_Calculadora.pdb
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\obj\Debug\netcoreapp3.1\Projeto_Calculadora.csprojAssemblyReference.cache
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\obj\Debug\netcoreapp3.1\Projeto_Calculadora.AssemblyInfoInputs.cache
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\obj\Debug\netcoreapp3.1\Projeto_Calculadora.AssemblyInfo.cs
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\obj\Debug\netcoreapp3.1\Projeto_Calculadora.csproj.CoreCompileInputs.cache
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\obj\Debug\netcoreapp3.1\Projeto_Calculadora.dll
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\obj\Debug\netcoreapp3.1\Projeto_Calculadora.pdb
+C:\GabrielGit\Calculadora_C_Sharp_Botao_2020\Projeto_13.10.2020\Projeto_Calculadora\Projeto_13.10.2020\obj\Debug\netcoreapp3.1\Projeto_Calculadora.genruntimeconfig.cache
